@@ -1,7 +1,3 @@
-'''
-PyPower Projects
-Emotion Detection Using AI
-'''
 
 #USAGE : python test.py
 
